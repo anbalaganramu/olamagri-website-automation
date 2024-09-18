@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> -->
+<suite name="Olam Agri website automation" verbose="2">
+   <test name="Olam Agri Performance Before Login" preserve-order ="true" group-by-instances="true">
+      
+      <classes>
+               <class name="com.olamagri.runner.RunnerClass"/>
+          
+
+                
+	  </classes>
+	  
+	</test>
+
+</suite> <!-- Suite -->
+ 
